@@ -117,8 +117,8 @@ This project integrates multiple open government datasets:
 1. **Clone the repository with submodules:**
 
 ```bash
-git clone --recurse-submodules https://github.com/kshrs/open-data-challenge.git
-cd open-data-challenge
+git clone --recurse-submodules https://github.com/kshrs/strategic-event-planner.git
+cd strategic-event-planner
 ```
 
 If you've already cloned without submodules, initialize them:
