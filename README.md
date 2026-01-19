@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib">
 </p>
 
@@ -26,6 +25,8 @@ National upskilling initiatives and hackathons often lack data-driven insights f
 - Minimize participant travel burden and maximize accessibility
 
 This results in **inefficient resource allocation** and **missed opportunities** to engage youth with industry professionals.
+
+### 📄 [Read the Full Strategic Framework Report (PDF)](https://github.com/kshrs/strategic-event-planner/blob/main/Strategic%20Framework%20for%20Predictive%20Talent%20Mapping%20and%20Event%20Optimization%20using%20Aadhaar%20Transactional%20Analytics.pdf)
 
 ---
 
