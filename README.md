@@ -26,7 +26,7 @@ National upskilling initiatives and hackathons often lack data-driven insights f
 
 This results in **inefficient resource allocation** and **missed opportunities** to engage youth with industry professionals.
 
-### 📄 [Read the Full Strategic Framework Report (PDF)]("./Strategic Framework for Predictive Talent Mapping and Event Optimization using Aadhaar Transactional Analytics.pdf")
+### 📄 [Read the Full Strategic Framework Report (PDF)](./Strategic Framework for Predictive Talent Mapping and Event Optimization using Aadhaar Transactional Analytics.pdf)
 
 ---
 
