@@ -1,0 +1,3 @@
+[submodule "india-maps-data"]
+	path = india-maps-data
+	url = https://github.com/udit-001/india-maps-data.git
