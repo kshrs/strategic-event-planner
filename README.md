@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/UIDAI-Data%20Hackathon%202026-orange.svg" alt="Data Hackathon 2026">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/jupyter-%23f37726.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib">
 </p>
