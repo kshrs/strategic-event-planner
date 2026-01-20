@@ -171,6 +171,8 @@ VSS = (ω₁ × YPI) + (ω₂ × T_density) + (ω₃ × I_base) + (ω₄ × S_hu
 4. Salem (Score: 0.334)
 5. Tiruchirappalli (Score: 0.308)
 
+![Final Venue Result](./visualization/result.png)
+
 The framework correctly identifies Coimbatore due to its strong manufacturing ecosystem, engineering college density, and active youth pipeline.
 
 ---
